@@ -1,0 +1,14 @@
+
+
+1 - Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
+
+Garantir que o a funcionalidade atenda todos os critérios, funcionais e não funcionais definidos na história.
+Garantir uma cobertura significativa dos testes, sejam eles unitários, integração, de componente e automatizados.
+Além disso garantir outros requisitos como Manutenibilidade e Segurança.
+
+
+2 - Em qual etapa da implementação você considera a qualidade de software?
+
+A qualidade de software deve ser levada em consideração em todas as etapas do desenvolvimento do projeto, desde seu  planejamento, criação de novas features até a correção de bugs.
+
+
